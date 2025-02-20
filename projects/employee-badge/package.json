@@ -1,0 +1,17 @@
+{
+  "name": "employee-badge",
+  "version": "0.0.1",
+  "author": {
+    "name": "Cristian Popescu",
+    "email": "crip.popescu@gmail.com"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "@angular/common": "^17.3.0",
+    "@angular/core": "^17.3.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}
